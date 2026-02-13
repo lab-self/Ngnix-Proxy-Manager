@@ -1,11 +1,12 @@
 <p align="center">
-     <img src= "owninfra.PNG" alt="logo" >
+     <img src= "logo.png" alt="logo" >
     
 
 </p>
 
-<br>
-# Nginx Proxy Manager (Docker)
+---
+
+## Nginx Proxy Manager (Docker)
 
 Nginx Proxy Manager (NPM) provides a simple web UI for managing Nginx reverse proxy hosts, SSL certificates, and access rules.
 
