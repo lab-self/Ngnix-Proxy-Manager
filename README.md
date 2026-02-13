@@ -1,7 +1,13 @@
-<p 
-align="center">
-	<img src="https://nginxproxymanager.com/logo.svg"  height="320px" width="320px">
-
+<p align="center">
+	<img src="https://nginxproxymanager.com/github.png">
+	<br><br>
+	<img src="https://img.shields.io/badge/version-2.13.7-green.svg?style=for-the-badge">
+	<a href="https://hub.docker.com/repository/docker/jc21/nginx-proxy-manager">
+		<img src="https://img.shields.io/docker/stars/jc21/nginx-proxy-manager.svg?style=for-the-badge">
+	</a>
+	<a href="https://hub.docker.com/repository/docker/jc21/nginx-proxy-manager">
+		<img src="https://img.shields.io/docker/pulls/jc21/nginx-proxy-manager.svg?style=for-the-badge">
+	</a>
 </p>
 
 ---
