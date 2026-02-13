@@ -22,7 +22,7 @@ curl -fsSL https://raw.githubusercontent.com/lab-self/Docker/main/install-docker
 
 ## Quick Setup Guide
 
-- [Quick Setup] (https://github.com/lab-self/Ngnix-Proxy-Manager/blob/b260893417a7286c9658717e43d2634cf98f9bd7/docker-compose.yml)
+- [Quick Setup](https://github.com/lab-self/Ngnix-Proxy-Manager/blob/b260893417a7286c9658717e43d2634cf98f9bd7/docker-compose.yml)
 
 ---
 
