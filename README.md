@@ -1,5 +1,5 @@
 <p align="center">
-     <img src= "Capture.PNG" alt="logo"  height="200px" width="200px" >
+     <img src= "owninfra.PNG" alt="logo"  height="200px" width="200px" >
     
 
 </p>
