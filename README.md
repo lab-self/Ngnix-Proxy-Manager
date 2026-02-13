@@ -1,6 +1,6 @@
 <p align="center">
      <a href= "https//esxi.owninfra.site"  target="_main" >
-     <img src="https://drive.google.com/file/d/1zazj-Er2Kz_0hysKEHA3sshwksQiRngv/view?usp=sharing" alt="Cloud" width="120"height="120">
+     <img src="https://drive.google.com/file/d/1zazj-Er2Kz_0hysKEHA3sshwksQiRngv/view" alt="Cloud" width="120"height="120">
 </a>
 </p>
 
