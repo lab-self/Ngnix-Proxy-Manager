@@ -1,5 +1,5 @@
 <p align="center">
-     <img src= "C:\Users\Administrator\Desktop\Git All\NPM\Ngnix-Proxy-Manager\Capture.PNG" alt="logo"  height="290px" width="890px" >
+     <img src= "Capture.PNG" alt="logo"  height="200px" width="200px" >
     
 
 </p>
