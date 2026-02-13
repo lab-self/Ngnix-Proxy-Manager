@@ -1,3 +1,10 @@
+<p align="center">
+     <img src="https://drive.google.com/file/d/1zazj-Er2Kz_0hysKEHA3sshwksQiRngv/view?usp=sharing>
+
+</p>
+
+
+
 # Nginx Proxy Manager (Docker)
 
 Nginx Proxy Manager (NPM) provides a simple web UI for managing Nginx reverse proxy hosts, SSL certificates, and access rules.
